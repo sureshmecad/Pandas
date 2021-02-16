@@ -1,0 +1,35 @@
+1.  .loc & .iloc
+
+2. grouping and aggregation functions
+
+          Data Aggregation :
+
+                i)     .count()
+
+                ii)    .sum()
+
+                iii)   .min()
+
+                iv)    .max()
+
+                v)     .mean()
+
+                vi)    .median()
+
+3. pd.Series
+
+4. pd.DataFrame
+
+5. Indexing
+
+6. NaN Missing data
+
+      a. The Methods isnull() and notnull()
+
+      b. Connection between NaN and None
+
+      c. Filtering out Missing Data
+
+      d. Filling in Missing Data
+
+7. 

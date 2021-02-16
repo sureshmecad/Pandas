@@ -1,0 +1,107 @@
+
+
+1. Interview Questions (Pandas)
+
+        https://analyticsindiamag.com/10-important-pandas-interview-questions-every-beginner-must-know/
+
+
+2. Youtube
+
+
+        https://youtu.be/vmEHCJofslg
+
+        https://www.youtube.com/watch?v=e60ItwlZTKM
+
+        https://www.youtube.com/watch?v=F6kmIpWWEdU
+
+        https://www.youtube.com/watch?v=fIXh-gmR7mQ      ----    PANDAS Slicing
+
+        https://www.youtube.com/watch?v=LlSbe2lz6mY      ----    Indexing (loc / iloc)
+
+        https://www.youtube.com/watch?v=2vFu4YtzfgE      ----    Indexing
+
+
+3. 
+
+        https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673
+
+          
+        https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+
+
+        https://www.geeksforgeeks.org/python-pandas-dataframe/           --- Very good
+
+        
+        https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+
+
+        https://www.kaggle.com/learn/pandas
+
+
+        https://realpython.com/pandas-python-explore-dataset/    --- some options good
+
+
+        https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
+
+
+        https://www.novixys.com/blog/pandas-tutorial-dataframe-basics/         --- ok
+
+
+        https://www.python-course.eu/pandas.php                                --- ok
+
+
+        http://zetcode.com/python/python-pandas/
+
+
+        https://pythonhow.com/accessing-dataframe-columns-rows-and-cells/
+
+
+        https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+
+
+        https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/
+
+
+        https://jakevdp.github.io/PythonDataScienceHandbook/
+
+
+        https://www.edureka.co/blog/python-pandas-tutorial/                   --- Finished
+
+ 
+        https://www.tutorialspoint.com/python_pandas/index.htm                --- Individual options (Not yet Started)
+
+ 
+        https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33    --- Finished (Explore Excell having 2 sheets)
+
+
+        https://data-flair.training/blogs/pandas-tutorial/                    --- ok
+               
+
+        https://campus.datacamp.com/courses/intermediate-python/dictionaries-pandas?ex=14    --- ok
+
+
+        https://github.com/KunaalNaik/Python_BI
+
+
+        https://www.kaggle.com/learn/overview
+
+
+        https://onlinecoursetutorials.com/pandas/how-to-create-dummy-variables-using-pandas-in-python/   --- ok
+
+             
+        https://www.lynda.com/Pandas-training-tutorials/7715-0.html     --- ok     
+
+
+        https://www.educba.com/what-is-pandas/                          --- ok
+
+
+4. Dataset (Example)
+
+
+       https://data36.com/pandas-tutorial-2-aggregation-and-grouping/        (Dataset : zoo)
+
+ 
+       https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
+
+
+       https://intellipaat.com/blog/tutorial/python-tutorial/python-pandas-tutorial/
