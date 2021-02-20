@@ -1,0 +1,11 @@
+
+  1. https://www.geeksforgeeks.org/build-a-gui-application-to-get-live-stock-price-using-python/
+
+  2. https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/
+
+
+
+
+         pip install yahoo_fin
+
+         pip install requests_html
